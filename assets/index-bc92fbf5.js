@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as a,c as n,a as s,w as r,F as c,b as _,d}from"./index-0567be6b.js";const i={},l=_("div",null," home ",-1);function p(u,f,m,x,h,k){const e=o("RouterLink");return a(),n(c,null,[l,s(e,{to:"/life"},{default:r(()=>[d("生活")]),_:1})],64)}const B=t(i,[["render",p]]);export{B as default};
