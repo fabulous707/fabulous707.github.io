@@ -1,0 +1,1 @@
+import{_ as o,b as t,c,p as n,f as d,d as s}from"./index-75860fc8.js";const a={},_=e=>(n("data-v-f404e198"),e=e(),d(),e),i={class:"container"},p=_(()=>s("h1",null,"friends",-1)),r=_(()=>s("h1",null,"无访问权限",-1)),f=[p,r];function l(e,h){return t(),c("div",i,f)}const x=o(a,[["render",l],["__scopeId","data-v-f404e198"]]);export{x as default};

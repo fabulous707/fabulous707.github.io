@@ -1,0 +1,1 @@
+import{_,b as o,c as t,p as n,f as a,d as c}from"./index-75860fc8.js";const d={},s=e=>(n("data-v-eeecc4e6"),e=e(),a(),e),i={class:"container"},p=s(()=>c("h1",null,"daily",-1)),r=s(()=>c("h1",null,"无访问权限",-1)),l=[p,r];function h(e,u){return o(),t("div",i,l)}const x=_(d,[["render",h],["__scopeId","data-v-eeecc4e6"]]);export{x as default};
