@@ -1,0 +1,1 @@
+import{_,b as o,c,p as n,g as a,e as s}from"./index-942573e9.js";const d={},t=e=>(n("data-v-e45875b7"),e=e(),a(),e),p={class:"container"},r=t(()=>s("h1",null,"travel",-1)),i=t(()=>s("h1",null,"无访问权限",-1)),l=[r,i];function h(e,u){return o(),c("div",p,l)}const v=_(d,[["render",h],["__scopeId","data-v-e45875b7"]]);export{v as default};
