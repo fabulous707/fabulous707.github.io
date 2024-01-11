@@ -1,0 +1,1 @@
+import{_ as t,b as c,c as o,p as a,h as d,e as _}from"./index-4110500c.js";const s=e=>(a("data-v-142d53c4"),e=e(),d(),e),n={class:"container"},p=s(()=>_("h1",null,"daily",-1)),i=s(()=>_("h1",null,"无访问权限",-1)),l=[p,i],r={__name:"index",setup(e){return(h,u)=>(c(),o("div",n,l))}},m=t(r,[["__scopeId","data-v-142d53c4"]]);export{m as default};
