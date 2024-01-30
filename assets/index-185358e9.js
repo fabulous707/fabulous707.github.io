@@ -1,0 +1,1 @@
+import{H as s,S as t}from"./index-a78a6153.js";import{_,A as a,b as c,c as n,i as e,e as r}from"./index-5bb2f0da.js";import"./avatar-4b9152cd.js";const i={class:"container"},d={class:"box"},p={__name:"index",setup(m){return(l,u)=>{const o=a("RouterView");return c(),n("div",i,[e(s),e(t),r("div",d,[e(o)])])}}},V=_(p,[["__scopeId","data-v-945aeec3"]]);export{V as default};

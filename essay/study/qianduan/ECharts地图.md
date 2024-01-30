@@ -1,0 +1,1 @@
+1. 首先npm下载好echarts，下载上面的map文件，把它放到node_modules的echarts文件夹下
